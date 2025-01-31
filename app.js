@@ -22,7 +22,7 @@ function adicionar() {
 
 function sortear() {
     if (nomes.length < 4) {
-        alert('O número de amigos deve ser no mínimo ou igual a 4 pessoas. Adicione mais amigos.');
+        alert('O número de amigos deve ser no mínimo ou igual a 4 pessoas. Adicione mais amigos, por favor.');
         return;
     }
 
